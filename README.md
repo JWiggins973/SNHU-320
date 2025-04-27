@@ -6,6 +6,8 @@ One way I can ensure my projects are not only secure but also functional is by f
 
 #How do I interpret user needs and incorporate them into a program?
 
-
+To interpret user needs, it is important when conducting the interview to actively listen to what they're asking for, take detailed notes, to be refrenced later, and ask follow up question for clarity. After gathering all neccesary information the user needs will be translated into system requirements, such as "the system should do TASK". These requiremnts will used as a guide when building the program incrementally. This enmsures its built and tested with the user needs as a focal point.
 
 #How do I approach designing software?
+
+
